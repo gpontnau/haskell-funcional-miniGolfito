@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "haskell-funcional-miniGolfito:lib"
+
+    - path: "./test"
+      component: "haskell-funcional-miniGolfito:test:haskell-funcional-miniGolfito-test"
